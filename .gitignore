@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/config
+/.vs/login-form/v14
+/login-form/bin
+/login-form/obj/Debug
+/login-form/Properties
